@@ -1,3 +1,22 @@
+# Binary To Decimal Converter
+A simplistic converter that helps users convert Binary numbers into decimals. 🔢
+
+## Motivation
+The motivation behind this project was to learn the fundamentals of React and Material UI.
+Overall, I learned that React and Material UI are awesome.✨
+
+## Screenshots
+![Binary To Decimal](https://user-images.githubusercontent.com/64885782/110528763-80670280-80e6-11eb-8593-e19e742dfd65.PNG)
+![Binary To Decimal 2](https://user-images.githubusercontent.com/64885782/110528772-8230c600-80e6-11eb-8088-8548cb241882.PNG)
+![Binary to Decimal 3](https://user-images.githubusercontent.com/64885782/110528777-83fa8980-80e6-11eb-9475-45950d4f052f.PNG)
+
+## Tech/framework used
+**Built with the following**
+  - https://reactjs.org/
+  - https://material-ui.com/
+  - https://www.typescriptlang.org/
+  - 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
